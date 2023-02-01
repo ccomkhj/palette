@@ -47,9 +47,9 @@ if __name__ == "__main__":
 
     # Key&Value should be adjusted based on your palette.
     conv ={
-        0: [26,27,0],
-        1: [120,210,10],
-        2: [209,233,11]
+        0: [0,0,0],
+        1: [184,61,245],
+        2: [221,255,51]
     }
 
     for ann in anns:
